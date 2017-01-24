@@ -7,6 +7,7 @@
 <title>Html request parameters</title>
 </head>
 <body>
+	/*ff zien of da hier macheert*/
 <h3>Kies een lector</h3>
 <form method="post">
 <input type="checkbox" name="lector" value="Possemiers Philippe">Possemiers Philippe
